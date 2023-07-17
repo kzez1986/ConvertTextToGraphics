@@ -1,0 +1,17 @@
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\KonwerterTekstNaGrafika\KonwerterTekstNaGrafika\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\KonwerterTekstNaGrafika\KonwerterTekstNaGrafika\obj\Debug\KonwerterTekstNaGrafika.Form1.resources
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\KonwerterTekstNaGrafika\KonwerterTekstNaGrafika\obj\Debug\KonwerterTekstNaGrafika.Properties.Resources.resources
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\KonwerterTekstNaGrafika\KonwerterTekstNaGrafika\obj\Debug\KonwerterTekstNaGrafika.csproj.GenerateResource.Cache
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\KonwerterTekstNaGrafika\KonwerterTekstNaGrafika\bin\Debug\KonwerterTekstNaGrafika.exe
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\KonwerterTekstNaGrafika\KonwerterTekstNaGrafika\bin\Debug\KonwerterTekstNaGrafika.pdb
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\KonwerterTekstNaGrafika\KonwerterTekstNaGrafika\obj\Debug\KonwerterTekstNaGrafika.exe
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\KonwerterTekstNaGrafika\KonwerterTekstNaGrafika\obj\Debug\KonwerterTekstNaGrafika.pdb
+C:\Users\kzez1986\Desktop\Projekty do gita\KonwerterTekstNaGrafika\KonwerterTekstNaGrafika\bin\Debug\KonwerterTekstNaGrafika.exe
+C:\Users\kzez1986\Desktop\Projekty do gita\KonwerterTekstNaGrafika\KonwerterTekstNaGrafika\bin\Debug\KonwerterTekstNaGrafika.pdb
+C:\Users\kzez1986\Desktop\Projekty do gita\KonwerterTekstNaGrafika\KonwerterTekstNaGrafika\obj\Debug\KonwerterTekstNaGrafika.csprojAssemblyReference.cache
+C:\Users\kzez1986\Desktop\Projekty do gita\KonwerterTekstNaGrafika\KonwerterTekstNaGrafika\obj\Debug\KonwerterTekstNaGrafika.Form1.resources
+C:\Users\kzez1986\Desktop\Projekty do gita\KonwerterTekstNaGrafika\KonwerterTekstNaGrafika\obj\Debug\KonwerterTekstNaGrafika.Properties.Resources.resources
+C:\Users\kzez1986\Desktop\Projekty do gita\KonwerterTekstNaGrafika\KonwerterTekstNaGrafika\obj\Debug\KonwerterTekstNaGrafika.csproj.GenerateResource.cache
+C:\Users\kzez1986\Desktop\Projekty do gita\KonwerterTekstNaGrafika\KonwerterTekstNaGrafika\obj\Debug\KonwerterTekstNaGrafika.csproj.CoreCompileInputs.cache
+C:\Users\kzez1986\Desktop\Projekty do gita\KonwerterTekstNaGrafika\KonwerterTekstNaGrafika\obj\Debug\KonwerterTekstNaGrafika.exe
+C:\Users\kzez1986\Desktop\Projekty do gita\KonwerterTekstNaGrafika\KonwerterTekstNaGrafika\obj\Debug\KonwerterTekstNaGrafika.pdb
